@@ -16,3 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AmanBasu20-black)](https://github.com/AmanBasu20)
 
 Let's grow together 🚀
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Basu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amanbasu20)
+
