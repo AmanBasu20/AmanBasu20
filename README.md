@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**AmanBasu20/AmanBasu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 2nd-year B.Tech CSE (AI & ML) Student  
+🚀 Exploring AI, ML, Web Development & Quantitative Finance  
+💡 Currently learning DSA, Python, and Machine Learning (Andrew Ng Course)  
+📊 Intern @ AICTE x IBM SkillsBuild | McKinsey Forward Graduate  
+🌱 Building real-world projects & growing in public
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Languages: Python, Java, HTML/CSS
+- Tools: Git, GitHub, Google Colab, VS Code
+- Learning: Machine Learning, Streamlit, Web Dev (Frontend & Backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinid)  
+[![GitHub](https://img.shields.io/badge/GitHub-AmanBasu20-black)](https://github.com/AmanBasu20)
+
+Let's grow together 🚀
