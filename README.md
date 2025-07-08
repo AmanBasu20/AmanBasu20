@@ -12,11 +12,8 @@
 - Learning: Machine Learning, Streamlit, Web Dev (Frontend & Backend)
 
 ## 📈 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)] (www.linkedin.com/in/amanbasu20)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amanbasu20)  
 [![GitHub](https://img.shields.io/badge/GitHub-AmanBasu20-black)](https://github.com/AmanBasu20)
 
 Let's grow together 🚀
 ## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Basu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amanbasu20)
-
