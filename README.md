@@ -7,7 +7,7 @@
 🌱 Building real-world projects & growing in public
 
 ## 🔧 Tech Stack
-- Languages: Python, Java, HTML/CSS
+- Languages: Python, HTML/CSS
 - Tools: Git, GitHub, Google Colab, VS Code
 - Learning: Machine Learning, Streamlit, Web Dev (Frontend & Backend)
 
