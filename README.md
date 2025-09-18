@@ -16,4 +16,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AmanBasu20-black)](https://github.com/AmanBasu20)
 
 Let's grow together 🚀
-## 📫 Connect with Me
