@@ -85,10 +85,6 @@ participated in code reviews, and resolved tracked issues.
 - Artificial Intelligence Fundamentals — IBM
 - McKinsey Forward Program — McKinsey & Company
 
-## 📊 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanBasu20&show_icons=true&theme=radical&hide_border=true)
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanbasu20)
